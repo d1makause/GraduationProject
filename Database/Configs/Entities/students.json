@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "DepartmentId": 3,
+    "RoleId": 2,
+    "FirstName": "Иван",
+    "MiddleName": "Сергеевич",
+    "LastName": "Петров",
+    "GroupId": 1
+  },
+  {
+    "Id": 2,
+    "DepartmentId": 4,
+    "RoleId": 2,
+    "FirstName": "Елена",
+    "MiddleName": null,
+    "LastName": "Иванова",
+    "GroupId": 2
+  },
+  {
+    "Id": 3,
+    "DepartmentId": 2,
+    "RoleId": 2,
+    "FirstName": "Алексей",
+    "MiddleName": "Александрович",
+    "LastName": "Сидоров",
+    "GroupId": 3
+  },
+  {
+    "Id": 4,
+    "DepartmentId": 5,
+    "RoleId": 2,
+    "FirstName": "Мария",
+    "MiddleName": null,
+    "LastName": "Попова",
+    "GroupId": 4
+  },
+  {
+    "Id": 5,
+    "DepartmentId": 1,
+    "RoleId": 2,
+    "FirstName": "Анна",
+    "MiddleName": "Ивановна",
+    "LastName": "Козлова",
+    "GroupId": 5
+  }
+]

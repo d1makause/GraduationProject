@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "ActivityKindId": 1,
+    "ActivityCategoryId": 1,
+    "Name": "Научная конференция по информационным технологиям",
+    "ParticipantsAmount": 50,
+    "Description": "Мероприятие, на котором студенты и преподаватели представляют результаты своих научных исследований в области информационных технологий.",
+    "StartDate": "2024-06-15T09:00:00",
+    "IsCompleted": false,
+    "EmployeeIds": [ 1, 3 ],
+    "StudentIds": [ 1, 2, 3 ]
+  },
+  {
+    "Id": 2,
+    "ActivityKindId": 2,
+    "ActivityCategoryId": 3,
+    "Name": "Творческий конкурс 'Литературные таланты'",
+    "ParticipantsAmount": 20,
+    "Description": "Соревнование в написании литературных произведений различных жанров: рассказы, стихи, эссе.",
+    "StartDate": "2024-07-10T13:00:00",
+    "IsCompleted": false,
+    "EmployeeIds": [ 2, 4 ],
+    "StudentIds": [ 4, 5 ]
+  },
+  {
+    "Id": 3,
+    "ActivityKindId": 3,
+    "ActivityCategoryId": 4,
+    "Name": "Семинар 'Карьерные перспективы в области экономики'",
+    "ParticipantsAmount": 30,
+    "Description": "Лекции и обсуждения о возможностях профессионального роста в сфере экономики и бизнеса.",
+    "StartDate": "2024-08-20T10:30:00",
+    "IsCompleted": false,
+    "EmployeeIds": [ 3, 5 ],
+    "StudentIds": [ 1, 3 ]
+  },
+  {
+    "Id": 4,
+    "ActivityKindId": 4,
+    "ActivityCategoryId": 2,
+    "Name": "IT-конференция 'Новейшие технологии в разработке ПО'",
+    "ParticipantsAmount": 100,
+    "Description": "Мероприятие, на котором специалисты из различных компаний делятся опытом и новейшими технологиями в области разработки программного обеспечения.",
+    "StartDate": "2024-09-05T08:00:00",
+    "IsCompleted": false,
+    "EmployeeIds": [ 1, 2 ],
+    "StudentIds": [ 2, 4, 5 ]
+  },
+  {
+    "Id": 5,
+    "ActivityKindId": 5,
+    "ActivityCategoryId": 5,
+    "Name": "Волонтерский день 'Чистый город'",
+    "ParticipantsAmount": 50,
+    "Description": "Акция по уборке городских территорий от мусора, проведение экологических мероприятий.",
+    "StartDate": "2024-10-15T09:00:00",
+    "IsCompleted": false,
+    "EmployeeIds": [ 4, 5 ],
+    "StudentIds": [ 1, 2, 3 ]
+  }
+]

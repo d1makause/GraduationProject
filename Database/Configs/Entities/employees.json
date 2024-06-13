@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "DepartmentId": 1,
+    "RoleId": 1,
+    "FirstName": "Иван",
+    "MiddleName": "Петрович",
+    "LastName": "Иванов",
+    "PulpitId": 1,
+    "Email": "ivanov@example.com",
+    "Experience": 5,
+    "Position": "Преподаватель"
+  },
+  {
+    "Id": 2,
+    "DepartmentId": 2,
+    "RoleId": 1,
+    "FirstName": "Мария",
+    "MiddleName": "Александровна",
+    "LastName": "Смирнова",
+    "PulpitId": 2,
+    "Email": "smirnova@example.com",
+    "Experience": 8,
+    "Position": "Преподаватель"
+  },
+  {
+    "Id": 3,
+    "DepartmentId": 3,
+    "RoleId": 1,
+    "FirstName": "Алексей",
+    "MiddleName": "Сергеевич",
+    "LastName": "Козлов",
+    "PulpitId": 3,
+    "Email": "kozlov@example.com",
+    "Experience": 10,
+    "Position": "Преподаватель"
+  },
+  {
+    "Id": 4,
+    "DepartmentId": 4,
+    "RoleId": 1,
+    "FirstName": "Елена",
+    "MiddleName": "Андреевна",
+    "LastName": "Попова",
+    "PulpitId": 4,
+    "Email": "popova@example.com",
+    "Experience": 7,
+    "Position": "Преподаватель"
+  },
+  {
+    "Id": 5,
+    "DepartmentId": 5,
+    "RoleId": 1,
+    "FirstName": "Андрей",
+    "MiddleName": "Иванович",
+    "LastName": "Сидоров",
+    "PulpitId": 5,
+    "Email": "sidorov@example.com",
+    "Experience": 6,
+    "Position": "Преподаватель"
+  }
+]
